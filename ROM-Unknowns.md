@@ -1,0 +1,3 @@
+﻿# There are unknown ROM offsets for:
+
+There is nothing here unless somebody adds something…
